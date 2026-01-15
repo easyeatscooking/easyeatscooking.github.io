@@ -1,0 +1,110 @@
+/* Style for body specifies a background color*/
+header {
+	text-align:center;
+}
+
+body {
+	background-color: #c7d6f4;
+}
+
+nav {
+	text-align: center;
+}
+
+nav li {
+		float: left;
+		margin-left: 1%;
+		margin-right: 1%;
+		border-radius: 1em;
+		background-color: #F4CAC7;
+		font-size: 1.5em;
+		width: 18%;
+		white-space: nowrap;
+		list-style-type: none;
+}
+
+.video {
+	display: inline;
+}
+
+nav li a {
+	text-decoration: underline;
+}
+
+.advice {
+	color: #334A28;
+	font-size: 2.3em;
+	font-weight: bold;
+}
+
+.list {
+color: #FFFFFF;
+font-size: 1em;
+}
+
+.list2 {
+	color: #334A28;
+	font-weight: bold;
+	font-size: 2em;
+}
+
+.class {
+	color: #FFFFFF;
+	font-size: 2em;
+}
+
+.note {
+	font-size: 1.5em;
+}
+
+.email {
+	color: #334A28;
+	font-weight: bold;
+	font-size: 1em;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+ 
+img {
+	max-width: 100%;
+}
+
+article {
+		background-color: #FFFFFF;
+		color: #334A28;
+		border-radius: 2em;
+		float: left;
+		margin: 0.5%;
+		padding: 0.5%;
+		width: 31%;
+		overflow: auto;
+	}
+	
+main {
+	clear: left;
+	display: block;
+	font-family: Playfair Display, sans-serif;
+	font-size: 0.6em;
+	margin-top: 6em;
+	padding: 1em;
+	background-color: #F4CAC7;
+	opacity: 0.85;
+	border-radius: 1em;
+	overflow: auto;
+}
+
+.contact {
+	color: #1D1D1C;
+	padding: 0;
+	text-decoration: underline;
+}
+
+footer {
+	font-size: .70em;
+	text-align: center;
+	margin-top:2em;
+	color: #1D1D1C
+}
